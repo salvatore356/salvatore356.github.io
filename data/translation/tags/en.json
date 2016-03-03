@@ -1,14 +1,1 @@
-{
-	"personal_details":"Personal information",
-	"experience":"Experience",
-	"studies":"Studies",
-	"pregrade":"Undergraduate",
-	"postgrade":"Postgraduate",
-	"others":"Others",
-	"technologies":"Technologies",
-	"projects":"Projects",
-	"full_name":"Full Names",
-	"profession":"Profession",
-	"email":"Email",
-	"phone":"Phone"
-}
+{ "personal_details":"Personal information", "experience":"Experience", "studies":"Studies", "pregrade":"Undergraduate", "postgrade":"Postgraduate", "others":"Others", "technologies":"Technologies", "projects":"Projects", "full_name":"Full Names", "profession":"Profession", "email":"Email", "phone":"Phone" }
