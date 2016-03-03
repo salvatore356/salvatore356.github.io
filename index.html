@@ -1,1 +1,173 @@
-Hello World
+<!DOCTYPE html>
+<html lang="es-ES" ng-app="app" ng-controller="CvController">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+		<title>Salvatore Gonzalez</title>
+		<link rel="shortcut icon" href="favicon.png" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+	</head>
+	<body>
+		<section class="loading" ng-hide="{{!loading}}" class="ng-hide">
+			<span class="point">&nbsp;</span>
+		</section>
+		<section class="content">
+			<aside class="panel">
+				<div class="panel-content">
+					<a id="home" class="scroll-to"><img id="logo-principal" src="img/logo.png"></a>
+					<ul class="menu">
+						<li>
+							<a id="personal-details" class="scroll-to">{{labels.personal_details}}</a>
+						</li>
+						<li>
+							<a id="experience-details" class="scroll-to">{{labels.experience}}</a>
+						</li>
+						<li>
+							<a id="studies-details" class="scroll-to">{{labels.studies}}</a>
+							<ul>
+								<li>
+									<a id="pregrade-details" class="scroll-to">{{labels.pregrade}}</a>
+								</li>
+								<li>
+									<a id="postgrade-details" class="scroll-to">{{labels.postgrade}}</a>
+								</li>
+								<li>
+									<a id="others-details" class="scroll-to">{{labels.others}}</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a id="technologies-details" class="scroll-to">{{labels.technologies}}</a>
+						</li>
+						<li>
+							<a id="projects-details" class="scroll-to">{{labels.projects}}</a>
+						</li>
+					</ul>
+				</div>
+			</aside> 
+
+			<section id="main">
+				<select id="lang" ng-model="lang" >
+					<option>de</option>
+					<option>en</option>
+					<option>es</option>
+					<option>fr</option>
+					<option>it</option>
+					<option>pt</option>
+				</select>
+				<a id="home-content">
+					<header>
+						Salvatore Gonzalez
+					</header>
+				</a>
+				<a class="btn-menu" href="#"><img src="/img/menu.png" /></a>
+
+				<article id="personal-details-content" class="data-content">
+					<a><h2>{{labels.personal_details}}</h2></a>
+					<ul>
+						<li><span>{{labels.full_name}}:</span> {{p_details[lang].fullName}}.</li>
+						<li><span>{{labels.profession}}:</span> {{p_details[lang].profession}}.</li>
+						<li><span>{{labels.email}}:</span> {{p_details[lang].email}}.</li>
+						<li><span>{{labels.phone}}:</span> {{p_details[lang].phone}}.</li>
+					</ul>
+				</article>
+
+				<article id="experience-details-content" class="data-content" >
+					<a><h2>{{labels.experience}}</h2></a>
+					<ul>
+					  <li ng-repeat="exp in experience[lang]">
+      				<span>{{exp.enterprise}}.</span> {{exp.date}}.
+      				<p>{{exp.role}}. {{exp.functions}}.</p>
+    				</li>
+					</ul>
+				</article>
+
+				<article id="studies-details-content" class="data-content">
+					<a><h2>{{labels.studies}}</h2></a>
+					<a id="pregrade-details-content"><span class="subtitle">{{labels.pregrade}}.</span></a>
+					<ul>
+						<li ng-repeat="course in studies[lang].pregrade">
+							<span>{{course.grade}}.</span>{{course.date}}.
+							<p>{{course.place}}.<br/>{{course.location}}.</p>
+						</li>
+					</ul>
+
+					<a id="postgrade-details-content"><span class="subtitle">{{labels.postgrade}}.</span></a>
+					<ul>
+						<li ng-repeat="course in studies[lang].postgrade">
+							<span>{{course.grade}}.</span>{{course.date}}.
+							<p>{{course.place}}.<br/>{{course.location}}.</p>
+						</li>
+					</ul>
+					
+					<a id="others-details-content"><span class="subtitle">{{labels.others}}.</span></a>
+					<ul>
+						<li ng-repeat="course in studies[lang].others">
+							<span>{{course.grade}}.</span>{{course.date}}.
+							<p>{{course.place}}.<br/>{{course.location}}.</p>
+						</li>
+					</ul>
+				</article>
+
+				<article id="technologies-details-content" class="data-content">
+					<a><h2>{{labels.technologies}}</h2></a>
+					<div class="techs-contains" ng-repeat="class in technologies">
+						<div class="techs" ng-repeat="tech in class" style="background-image:url({{tech.icon}})">
+							<div class="tech-label">{{tech.name}}</div>
+						</div>
+					</div>
+				</article>
+
+				<article id="projects-details-content" class="data-content">
+					<a><h2>{{labels.projects}}</h2></a>
+					<section class="projects-img">
+						<div class="resizable" id="projectcontainer{{$index}}" onclick="resize(this);" 	ng-repeat="project in projects"			style="margin-top: {{project.top}}vh; background-image:url({{project.img}})" >
+							<span class="caption">
+									{{project[lang].title}}<p>{{project[lang].desc}}</p>
+							</span> 
+						</div>
+					</section>
+				</article>
+
+			</section>
+			<footer>
+				Salvatore
+			</footer>
+		</section>
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/angular.min.js"></script>
+		<script type="text/javascript" src="js/app.js"></script>
+
+		<script type="text/javascript">
+			var openProject=false;
+			function resize(element){
+				if(!openProject)
+					$('#'+element.id).addClass("fullSize");
+				else $('#'+element.id).removeClass("fullSize");
+					$('#'+element.id).mouseleave(function(){
+						$('#'+element.id).removeClass("fullSize");
+						openProject=false;
+					});
+				openProject=!openProject;
+			}
+
+			var openPanel=false;
+			$(".btn-menu").click(function(){
+				if(!openPanel){
+					$(".panel").addClass("panel-show");
+				}else $(".panel").removeClass("panel-show");
+				openPanel=!openPanel;
+			});
+
+			$(".scroll-to").click(function (){
+				var move_to=$("#main").scrollTop()+$("#"+this.id+"-content").position().top;
+     		$('#main').animate({
+					scrollTop: move_to
+      	}, 1000);
+      	$(".panel").removeClass("panel-show");
+      	openPanel=false;
+  		});
+		</script>
+
+	</body>
+</html>

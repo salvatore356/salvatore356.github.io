@@ -1,0 +1,569 @@
+{
+	"0":{
+		"de":{
+			"title":"Rock monster",
+			"desc":"Geben Sie würmer spiel für Pc"
+		},
+		"en":{
+			"title":"Rock monster",
+			"desc":"Worms game for Pc"
+		},
+		"es":{
+			"title":"Rock monster",
+			"desc":"Juego del tipo worms para Pc"
+		},
+		"fr":{
+			"title":"Rock monster",
+			"desc":"Jeu pour Pc"
+		},
+		"it":{
+			"title":"Rock monster",
+			"desc":"Tipo vermi gioco per Pc"
+		},
+		"pt":{
+			"title":"Rock monster",
+			"desc":"Digite vermes jogo para Pc"
+		},
+		"img":"/data/img/projects/rockmonster.jpg"
+	},
+	"1":{
+		"de":{
+			"title":"Inside me",
+			"desc":"Segelsimulator Nanobots im Inneren des menschlichen Körpers und die Bekämpfung der möglichen Krankheiten, für Android entwickelt"
+		},
+		"en":{
+			"title":"Inside me",
+			"desc":"Nanobots simulator inside the human body and combating possible diseases, developed for Android"
+		},
+		"es":{
+			"title":"Inside me",
+			"desc":"Simulador de nanobots navegando dentro del cuerpo humano y combatiendo las posibles enfermedades, desarrollado para Android"
+		},
+		"fr":{
+			"title":"Inside me",
+			"desc":"Voile nanobots simulateur à l'intérieur du corps humain et de lutte contre les maladies possibles, développé pour Android"
+		},
+		"it":{
+			"title":"Inside me",
+			"desc":"Vela nanobot simulatore all'interno del corpo umano e la lotta contro le malattie possibili, sviluppato per Android"
+		},
+		"pt":{
+			"title":"Inside me",
+			"desc":"Vela nanobots simulador dentro do corpo humano e da luta contra possíveis doenças, desenvolvido para Android"
+		},
+		"img":"/data/img/projects/nano.jpg"
+	},
+	"2":{
+		"de":{
+			"title":"Etl und synchronisations anwendungen",
+			"desc":"Verteilte Anwendung Inventarsysteme zu synchronisieren"
+		},
+		"en":{
+			"title":"Etl and synchronization of applications",
+			"desc":"Distributed application to synchronize inventory systems"
+		},
+		"es":{
+			"title":"Etl y sincronizacion de aplicativos",
+			"desc":"Aplicación para sincronizar sistemas distribuidos de inventario"
+		},
+		"fr":{
+			"title":"Etl et la synchronisation des applications",
+			"desc":"Application distribuée pour synchroniser les systèmes d'inventaire"
+		},
+		"it":{
+			"title":"Etl e sincronizzazione delle applicazioni",
+			"desc":"Applicazione distribuita per sincronizzare sistemi di inventario"
+		},
+		"pt":{
+			"title":"ETL e sincronização de aplicativos",
+			"desc":"Aplicação distribuída para sincronizar os sistemas de inventário"
+		},
+		"img":"/data/img/projects/distribuido.jpg"
+	},
+	"3":{
+		"de":{
+			"title":"Inventar system",
+			"desc":"Inventar management anwendung"
+		},
+		"en":{
+			"title":"Inventory system",
+			"desc":"Inventory management application"
+		},
+		"es":{
+			"title":"Sistema de inventario",
+			"desc":"Aplicación para gestión de inventarios"
+		},
+		"fr":{
+			"title":"Système d'inventaire",
+			"desc":"Application de gestion des stocks"
+		},
+		"it":{
+			"title":"Sistema di inventario",
+			"desc":"Applicazione per la gestione inventario"
+		},
+		"pt":{
+			"title":"Sistema de inventário",
+			"desc":"Aplicação de gestão de inventário"
+		},
+		"img":"/data/img/projects/inventario.jpg"
+	},
+	"4":{
+		"de":{
+			"title":"Pctam",
+			"desc":"Programm für den Unterricht ICT ältere Menschen entwickelt"
+		},
+		"en":{
+			"title":"Pctam",
+			"desc":"Program designed for teaching ICT elderly people"
+		},
+		"es":{
+			"title":"Pctam",
+			"desc":"Programa diseñado para la enseñanza de las TIC a personas de la tercera edad"
+		},
+		"fr":{
+			"title":"Pctam",
+			"desc":"Programme conçu pour l'enseignement des TIC personnes âgées"
+		},
+		"it":{
+			"title":"Pctam",
+			"desc":"Programma progettato per l'insegnamento delle TIC anziani"
+		},
+		"pt":{
+			"title":"Pctam",
+			"desc":"Programa concebido para o ensino de TIC idosos"
+		},
+		"img":"/data/img/projects/adultomayor.jpg"
+	},
+	"5":{
+		"de":{
+			"title":"Kaizen",
+			"desc":"Informationssystem für die Koordinierung der Förderung von Wissenschaft und Technologie Dekanat der Ucla"
+		},
+		"en":{
+			"title":"Kaizen",
+			"desc":"Information system for the coordination of promotion of science and technology deanship of Ucla"
+		},
+		"es":{
+			"title":"Kaizen",
+			"desc":"Sistema de información para la coordinación de fomento del decanato de ciencias y tecnologías de la Ucla"
+		},
+		"fr":{
+			"title":"Kaizen",
+			"desc":"Système d'information pour la coordination de la promotion de la science et de la technologie décanat de l'Ucla"
+		},
+		"it":{
+			"title":"Kaizen",
+			"desc":"Sistema informativo per il coordinamento della promozione della scienza e della tecnologia deanship di Ucla"
+		},
+		"pt":{
+			"title":"Kaizen",
+			"desc":"Sistema de informação para a coordenação da promoção da ciência e tecnologia deanship da UCLA"
+		},
+		"img":"/data/img/projects/kaizen.jpg"
+	},
+	"6":{
+		"de":{
+			"title":"Battle tank difuse",
+			"desc":"Arcade Spiel basiert auf dem ursprünglichen Kampfpanzer, die Qualitäten der Fuzzy Logik demonstrieren"
+		},
+		"en":{
+			"title":"Battle tank difuse",
+			"desc":"Arcade game based on the original battle tank to demonstrate the qualities of fuzzy logic"
+		},
+		"es":{
+			"title":"Battle tank difuse",
+			"desc":"Juego arcade basado en el Battle Tank Original para demostrar las cualidades de la logica difusa"
+		},
+		"fr":{
+			"title":"Battle tank difuse",
+			"desc":"Jeu d'arcade basé sur le char de combat d'origine pour démontrer les qualités de logique floue"
+		},
+		"it":{
+			"title":"Battle tank difuse",
+			"desc":"Gioco arcade basato sul carro armato originale per dimostrare le qualità di logica fuzzy"
+		},
+		"pt":{
+			"title":"Battle tank difuse",
+			"desc":"Jogo de arcade baseado no tanque de guerra original para demonstrar as qualidades de lógica fuzzy"
+		},
+		"img":"/data/img/projects/battletank.jpg"
+	},
+	"7":{
+		"de":{
+			"title":"Spam detektor",
+			"desc":"System Spam Erkennung basiert auf künstlichen neuronalen Netzen"
+		},
+		"en":{
+			"title":"Spam detector",
+			"desc":"System spam detection based on artificial neural networks"
+		},
+		"es":{
+			"title":"Detector de correo no deseado",
+			"desc":"Sistema de deteccion de correo spam, basado en redes neuronales artificiales"
+		},
+		"fr":{
+			"title":"Détecteur de Spam",
+			"desc":"La détection de spam de système basé sur les réseaux de neurones artificiels"
+		},
+		"it":{
+			"title":"Rilevatore di Spam",
+			"desc":"Rilevamento dello spam sistema basato su reti neurali artificiali"
+		},
+		"pt":{
+			"title":"Detector de Spam",
+			"desc":""
+		},
+		"img":"/data/img/projects/spam.jpg"
+	},
+	"8":{
+		"de":{
+			"title":"Spiel des lebens",
+			"desc":"Die Umsetzung des klassischen Spiels des Lebens basierend auf zellularen Automaten und Partikel Simulator für eine Demonstration von Techniken der künstlichen Intelligenz"
+		},
+		"en":{
+			"title":"Game of life",
+			"desc":"Implementation of the classic game of life based on cellular automata and particle simulator for a demonstration of techniques of artificial intelligence"
+		},
+		"es":{
+			"title":"Juego de la vida",
+			"desc":"Implementacion del clasico juego de la vida basado en automatas celulares y simulador de particulas para una demostracion de tecnicas de la inteligencia artificial"
+		},
+		"fr":{
+			"title":"Game of life",
+			"desc":"La mise en œuvre du jeu classique de vie basé sur les automates cellulaires et simulateur de particules pour une démonstration des techniques de l'intelligence artificielle"
+		},
+		"it":{
+			"title":"Gioco della vita",
+			"desc":"Attuazione del classico gioco della vita sulla base di automi cellulari e il simulatore di particelle per una dimostrazione di tecniche di intelligenza artificiale"
+		},
+		"pt":{
+			"title":"Jogo da vida",
+			"desc":"Implementação do clássico jogo de vida baseado em autômatos celulares e simulador de partículas para uma demonstração de técnicas de inteligência artificial"
+		},
+		"img":"/data/img/projects/automata.jpg"
+	},
+	"9":{
+		"de":{
+			"title":"Chord Generator",
+			"desc":"Anwendung zur Erzeugung von musikalischen Akkorden, für jedes Instrument auf Basis von zellularen Automaten"
+		},
+		"en":{
+			"title":"Chord generator",
+			"desc":"Application for generation of musical chords, for any instrument based on cellular automata"
+		},
+		"es":{
+			"title":"Generador de acordes musicales",
+			"desc":"Aplicación para la generación de acordes musicales, para cualquier instrumento basado en autómatas celulares"
+		},
+		"fr":{
+			"title":"Générateur chord",
+			"desc":"Demande de génération d'accords musicaux, pour tout instrument basé sur les automates cellulaires"
+		},
+		"it":{
+			"title":"Generatore di chord",
+			"desc":"Domanda di generazione di accordi musicali, per qualsiasi strumento basato su automi cellulari"
+		},
+		"pt":{
+			"title":"Gerador de chord",
+			"desc":"Pedido de geração de acordes musicais, para qualquer instrumento baseado em autômatos celulares"
+		},
+		"img":"/data/img/projects/chords.jpg"
+	},
+	"10":{
+		"de":{
+			"title":"Emotional ameise gruppierung",
+			"desc":"Anwendung für die Gewinnung, Klassifizierung und Gruppierung von Emotionen in der Musik basierend auf Ameisenart Algorithmus und mel Cepstralkoeffizienten"
+		},
+		"en":{
+			"title":"Emotional ant clustering",
+			"desc":"Application for the extraction, classification and grouping of emotions in music based on ant colony algorithm and mel cepstral coefficients"
+		},
+		"es":{
+			"title":"Agrupación de hormigas emocional",
+			"desc":"Aplicacion para la extraccion, clasificacion y agrupamiento de las emociones en la musica basado en algoritmo de colonias de hormigas y Coeficientes Cepstrales de Mel"
+		},
+		"fr":{
+			"title":"Regroupement fourmi émotionnelle",
+			"desc":"Demande pour l'extraction, la classification et le regroupement des émotions dans la musique basée sur l'algorithme de colonie de fourmis et de coefficients cepstraux mel"
+		},
+		"it":{
+			"title":"Emotivo di clustering formica",
+			"desc":"Domanda per l'estrazione, la classificazione e il raggruppamento delle emozioni in musica basata su un algoritmo colonia di formiche e coefficienti Cepstral Mel"
+		},
+		"pt":{
+			"title":"Agrupamento formiga emocional",
+			"desc":"Aplicação para a extracção, classificação e agrupamento de emoções em música baseada em algoritmo de colônia de formigas e coeficientes cepstral de mel"
+		},
+		"img":"/data/img/projects/ant.jpg"
+	},
+	"11":{
+		"de":{
+			"title":"Genetische algorithmen",
+			"desc":"Anwendung zu untersuchen das Verhalten der verschiedenen Typen von genetischen Algorithmen für Funktionen optmizacion"
+		},
+		"en":{
+			"title":"Genetic algorithms",
+			"desc":"Application to study the behavior of different types of genetic algorithms for functions optmizacion"
+		},
+		"es":{
+			"title":"Algoritmos genéticos",
+			"desc":"Aplicacion para estudiar el comportamiento de los distintos tipos de algoritmos geneticos para la optmizacion de funciones"
+		},
+		"fr":{
+			"title":"Algorithmes génétiques",
+			"desc":"Application à l'étude du comportement des différents types d'algorithmes génétiques pour les fonctions optmizacion"
+		},
+		"it":{
+			"title":"Algoritmi genetici",
+			"desc":"Applicazione per studiare il comportamento dei diversi tipi di algoritmi genetici per funzioni optmizacion"
+		},
+		"pt":{
+			"title":"Algoritmos genéticos",
+			"desc":"Aplicação para estudar o comportamento dos diferentes tipos de algoritmos genéticos para funções optmizacion"
+		},
+		"img":"/data/img/projects/genetic.jpg"
+	},
+	"12":{
+		"de":{
+			"title":"Navigations simulator",
+			"desc":"3D-Simulationssystem zum Testen autonomen Navigationsalgorithmen in Roboter"
+		},
+		"en":{
+			"title":"Navigation simulator",
+			"desc":"3D simulation system for testing autonomous navigation algorithms in robots"
+		},
+		"es":{
+			"title":"Simulador de navegación",
+			"desc":"Sistema de simulación 3D, para pruebas de algoritmos de navegación autónoma en robots"
+		},
+		"fr":{
+			"title":"Simulateur de navigation",
+			"desc":"Système de simulation 3D pour tester les algorithmes de navigation autonomes robots"
+		},
+		"it":{
+			"title":"Simulatore di navigazione",
+			"desc":"Sistema di simulazione 3D per testare algoritmi di navigazione autonoma di robot"
+		},
+		"pt":{
+			"title":"Simulador de navegación",
+			"desc":"Sistema de simulação 3D para testar algoritmos de navegação autônoma em robôs"
+		},
+		"img":"/data/img/projects/robotsim.jpg"
+	},
+	"13":{
+		"de":{
+			"title":"Navigationsalgorithmus",
+			"desc":"Navigationsalgorithmus basierend auf SLAM"
+		},
+		"en":{
+			"title":"Navigation algorithm",
+			"desc":"Navigation algorithm based on SLAM"
+		},
+		"es":{
+			"title":"Algoritmo de navegación",
+			"desc":"Algoritmo de navegación basado en SLAM"
+		},
+		"fr":{
+			"title":"Algorithme de navigation",
+			"desc":"Algorithme de navigation basé sur SLAM"
+		},
+		"it":{
+			"title":"Algoritmo di navigazione",
+			"desc":"Algoritmo di navigazione basata su SLAM"
+		},
+		"pt":{
+			"title":"Algoritmo de navegação",
+			"desc":"Algoritmo de navegação baseado em SLAM"
+		},
+		"img":"/data/img/projects/navigation.jpg"
+	},
+	"14":{
+		"de":{
+			"title":"Navigationssystem für Roboter",
+			"desc":"Kinect Sensor eingebaut und Umsetzung autonomen Navigationsalgorithmen in P3dx"
+		},
+		"en":{
+			"title":"Navigation system for robots",
+			"desc":"Kinect sensor incorporating and implementing autonomous navigation algorithms in P3dx"
+		},
+		"es":{
+			"title":"Sistema de navegación para robots",
+			"desc":"Incorporación de sensor Kinect e implementación de algoritmos de navegación autónoma en P3dx"
+		},
+		"fr":{
+			"title":"Système de navigation pour les robots",
+			"desc":"Capteur Kinect incorporant et la mise en œuvre des algorithmes de navigation autonomes P3dx"
+		},
+		"it":{
+			"title":"Sistema di navigazione per robot",
+			"desc":"Sensore Kinect incorporando e l'attuazione di algoritmi di navigazione autonoma in P3dx"
+		},
+		"pt":{
+			"title":"Sistema de navegação para robôs",
+			"desc":"Sensor Kinect incorporação e implementação de algoritmos de navegação autônoma em P3dx"
+		},
+		"img":"/data/img/projects/kinect.jpg"
+	},
+	"15":{
+		"de":{
+			"title":"J-19",
+			"desc":"Erstellen von Schnittstellensteuerung und Überwachung P3dx Roboter, Android"
+		},
+		"en":{
+			"title":"J-19",
+			"desc":"Creating interface control and monitoring P3dx robot, Android"
+		},
+		"es":{
+			"title":"J-19",
+			"desc":"Creacion de interfaz de control y monitoreo del robot P3dx, para Android"
+		},
+		"fr":{
+			"title":"J-19",
+			"desc":"Création d'un contrôle d'interface et de surveillance robot de P3dx, Android"
+		},
+		"it":{
+			"title":"J-19",
+			"desc":"La creazione di controllo di interfaccia e monitoraggio P3dx robot, Android"
+		},
+		"pt":{
+			"title":"J-19",
+			"desc":"Criando controle de interface e monitoramento P3dx robô, Android"
+		},
+		"img":"/data/img/projects/j19.jpg"
+	},
+	"16":{
+		"de":{
+			"title":"Einfache OpenGl",
+			"desc":"Erstellen von Abstraktionsschicht für OpenGl Es, mit der Umsetzung der primitiven und Grundfunktionen "
+		},
+		"en":{
+			"title":"Simple OpenGl",
+			"desc":"Creating abstraction layer for OpenGl Es, with implementation of primitive and basic functions"
+		},
+		"es":{
+			"title":"Simple OpenGl",
+			"desc":"Creacion de capa de abstracción para OpenGl Es, con implementacion de primitivas y funciones basicas"
+		},
+		"fr":{
+			"title":"OpenGl simple",
+			"desc":"Création couche d'abstraction pour OpenGl Es, avec la mise en œuvre des fonctions primitives et fondamentales"
+		},
+		"it":{
+			"title":"OpenGl semplice",
+			"desc":"Creazione di livello di astrazione per OpenGl Es, con l'implementazione di funzioni primitive e di base"
+		},
+		"pt":{
+			"title":"OpenGl simples",
+			"desc":"Criando camada de abstração para OpenGl Es, com a implementação de funções primitivas e básicas"
+		},
+		"img":"/data/img/projects/simpleopengl.jpg"
+	},
+	"17":{ 	
+		"de":{
+			"title":"Galac Business Mobile",
+			"desc":"Responsive Web-Anwendung für die Überwachung von Finanzindikatoren Unternehmen"
+		},
+		"en":{
+			"title":"Galac Business Mobile",
+			"desc":"Responsive web application for monitoring financial indicators companies"
+		},
+		"es":{
+			"title":"Galac Business Mobile",
+			"desc":"Aplicacion web responsiva para el monitoreo de indicadores financieros en empresas"
+		},
+		"fr":{
+			"title":"Galac Business Mobile",
+			"desc":"Application web responsive pour le suivi des indicateurs financiers des entreprises"
+		},
+		"it":{
+			"title":"Galac Business Mobile",
+			"desc":"Applicazione web responsive per il monitoraggio di aziende indicatori finanziari"
+		},
+		"pt":{
+			"title":"Galac Business Mobile",
+			"desc":"Aplicação web sensível para monitoramento de indicadores financeiros empresas"
+		},
+		"img":"/data/img/projects/gbm.jpg"
+	},
+	"18":{
+		"de":{
+			"title":"Integration von externen Geräten",
+			"desc":"Integration von externen Geräten an Systemen"
+		},
+		"en":{
+			"title":"Integration of external devices",
+			"desc":"Integration of external devices to systems"
+		},
+		"es":{
+			"title":"Integración de dispositivos externos",
+			"desc":"Integración de dispositivos externos a sistemas"
+		},
+		"fr":{
+			"title":"Intégration des périphériques externes",
+			"desc":"L'intégration des dispositifs externes aux systèmes"
+		},
+		"it":{
+			"title":"L'integrazione di dispositivi esterni",
+			"desc":"L'integrazione di dispositivi esterni ai sistemi"
+		},
+		"pt":{
+			"title":"A integração de dispositivos externos",
+			"desc":"A integração de dispositivos externos para sistemas"
+		},
+		"img":"/data/img/projects/externosdev.jpg"
+	},
+	"19":{
+		"de":{
+			"title":"Migration Verwaltungssystem",
+			"desc":"Migration Verwaltungssystem von mehr als 3000 Unternehmen zu SOA verwendet"
+		},
+		"en":{
+			"title":"Migration administrative system",
+			"desc":"Migration administrative system used by more than 3000 companies to SOA"
+		},
+		"es":{
+			"title":"Migración de sistema administrativo",
+			"desc":"Migracion de sistema administrativo utilizado por mas de 3000 empresas a una arquitectura SOA"
+		},
+		"fr":{
+			"title":"Migration système administratif",
+			"desc":"Migration du système administratif utilisé par plus de 3000 entreprises à SOA"
+		},
+		"it":{
+			"title":"Sistema amministrativo migrazione",
+			"desc":"Sistema amministrativo migrazione utilizzato da più di 3000 aziende per SOA"
+		},
+		"pt":{
+			"title":"Sistema administrativo migração",
+			"desc":"Sistema administrativo migração usado por mais de 3000 empresas para SOA"
+		},
+		"img":"/data/img/projects/administrativo.jpg"
+	},
+	"20":{
+		"de":{
+			"title":"Radio",
+			"desc":"Erstellen von Server für Online Radioübertragung und FM Wahl"
+		},
+		"en":{
+			"title":"Radio",
+			"desc":"Creating server for online radio transmission and FM dial"
+		},
+		"es":{
+			"title":"Radio",
+			"desc":"Creación de servidor para la transmisión de radio online y por dial FM"
+		},
+		"fr":{
+			"title":"Radio",
+			"desc":"Création serveur pour la transmission radio en ligne et d'une ligne FM"
+		},
+		"it":{
+			"title":"Radio",
+			"desc":"Creazione di server per la trasmissione radio online e quadrante FM"
+		},
+		"pt":{
+			"title":"Rádio",
+			"desc":"Criando servidor para transmissão de rádio on-line e dial FM"
+		},
+		"img":"/data/img/projects/radio.jpg"
+	}
+}
